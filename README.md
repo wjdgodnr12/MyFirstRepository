@@ -1,2 +1,2 @@
 # MyFirstRepository
-Tutorial Repository
+My name is SeungWon
